@@ -1,1 +1,5 @@
-
+pytest==8.2.0
+requests==2.31.0
+pytest-html==4.1.1
+jsonschema==4.22.0
+pytest-dotenv==0.5.2
